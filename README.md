@@ -30,7 +30,7 @@ Key Components:
 Usage:
 - Run the script.
 - Enter a valid username and password for authentication
-  # Sample user credentials
+  Sample user credentials:
   username='admin'
   password='password123'
 - Input commands such as 'rotate', 'activatepanels', 'deactivatepanels', 'collectdata', or 'exit' to control the simulated satellite.
